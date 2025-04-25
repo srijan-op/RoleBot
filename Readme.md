@@ -1,4 +1,4 @@
-# 🤖 RoleBot - Role-Changing AI Agent using FastAPI, Streamlit & LangGraph
+# 🤖 RoleBot - Role-Changing AI Agent 
 
 RoleBot is an intelligent chatbot that allows users to dynamically assign roles to an AI assistant and receive contextual responses. It leverages **LangGraph**, **LangChain**, **Groq LLMs**, and **Tavily** search integration to provide tailored and interactive conversations.
 
